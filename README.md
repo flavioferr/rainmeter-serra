@@ -6,7 +6,7 @@ Skin para o [Rainmeter](https://www.rainmeter.net), minimalista e com tela de co
 
 ![Serra](docs/hero.png)
 
-[**⬇ Baixar Serra.rmskin**](https://github.com/flavioferr/rainmeter-serra/releases/latest/download/Serra.rmskin)
+[**⬇ Baixar Serra.rmskin**](https://github.com/flavioferr/rainmeter-serra/releases/latest/download/Serra.rmskin) (português)  ·  [**⬇ Download Serra-EN.rmskin**](https://github.com/flavioferr/rainmeter-serra/releases/latest/download/Serra-EN.rmskin) ([English](#english))
 
 ## Sobre
 
@@ -50,6 +50,8 @@ Clique com o botão direito em qualquer widget → **Configurações**. Tudo é 
 
 Prefira o `.rmskin`: ele já instala o plugin de música. A pasta [`Serra`](Serra) tem o código da skin.
 
+Quer a skin em inglês? Baixe o [`Serra-EN.rmskin`](https://github.com/flavioferr/rainmeter-serra/releases/latest/download/Serra-EN.rmskin) — o código fica em [`en/Serra`](en/Serra). As duas versões instalam na mesma pasta, então instalar uma substitui a outra.
+
 ## Dicas
 
 - **Música:** o player lê tudo que aparece nos controles de mídia do Windows — Spotify, YouTube, Netflix e qualquer site no Chrome/Edge/Firefox, Apple Music, Deezer, VLC… O plugin [WebNowPlaying](https://github.com/keifufu/WebNowPlaying-Rainmeter) (MIT) já vem dentro do `.rmskin`; a [extensão do navegador](https://wnp.keifufu.dev) é opcional. Clique na barra de progresso para pular.
@@ -76,6 +78,26 @@ Outras skins da mesma leva:
 - [Régua](https://github.com/flavioferr/rainmeter-regua) — A linha do dia: régua de 24h com o agora, nascer e pôr do sol.
 
 E mais 12 na coleção: [Lumen](https://github.com/flavioferr/rainmeter-lumen), [Horizon](https://github.com/flavioferr/rainmeter-horizon), [Orbit](https://github.com/flavioferr/rainmeter-orbit), [Shell](https://github.com/flavioferr/rainmeter-shell), [Folio](https://github.com/flavioferr/rainmeter-folio), [Bento](https://github.com/flavioferr/rainmeter-bento), [Prisma](https://github.com/flavioferr/rainmeter-prisma), [Linea](https://github.com/flavioferr/rainmeter-linea), [Pixel](https://github.com/flavioferr/rainmeter-pixel), [Soft](https://github.com/flavioferr/rainmeter-soft), [Swiss](https://github.com/flavioferr/rainmeter-swiss) e [Island](https://github.com/flavioferr/rainmeter-island).
+
+## English
+
+**Frosted glass: menu bar, control center, widgets and dock.** A minimalist [Rainmeter](https://www.rainmeter.net) skin with its own settings screen.
+
+[**⬇ Download Serra-EN.rmskin**](https://github.com/flavioferr/rainmeter-serra/releases/latest/download/Serra-EN.rmskin)
+
+1. Install [Rainmeter](https://www.rainmeter.net) (4.5 or newer).
+2. Download [`Serra-EN.rmskin`](https://github.com/flavioferr/rainmeter-serra/releases/latest) from the Releases page.
+3. Double-click the file and click **Install**.
+4. On first run the widgets are placed for you and the settings open by themselves.
+
+- **Widgets:** menu bar (volume, network, CPU/RAM, date and time), date and time, control center (network, system, volume and music), widget stack (weather, mini calendar, system bars) and a dock with shortcuts that grow on hover.
+- **Settings:** right-click any widget → **Serra settings**. Theme (Graphite, Light, Midnight, Plum), size (70% to 160%), glass opacity, 24h or 12h time, your city and an on/off switch for each widget.
+- **Music:** reads anything shown in the Windows media controls — Spotify, YouTube, Netflix, any site in Chrome/Edge/Firefox, Apple Music, Deezer, VLC… The [WebNowPlaying](https://github.com/keifufu/WebNowPlaying-Rainmeter) plugin (MIT) is included in the `.rmskin`.
+- **Weather:** type your city in the settings and the coordinates are looked up automatically. Data from [Open-Meteo](https://open-meteo.com), free and without an API key. Temperatures are in °C.
+- **Calendar:** the week starts on Sunday; set `WeekStart=1` in `@Resources\Variables.inc` to start on Monday.
+- **Requirements:** Windows 10 or 11 and Rainmeter 4.5+. If the player stays empty, install the [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+
+The source of the English version is in [`en/Serra`](en/Serra). Both versions install to the same `Serra` folder, so installing one replaces the other.
 
 ## Licença
 
